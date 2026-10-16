@@ -1,1 +1,14 @@
-body  {background-color:cream; text-align:center
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
