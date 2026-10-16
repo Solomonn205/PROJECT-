@@ -9,6 +9,13 @@ h1 {
 }
 
 img {
-  width: 200px;
+  width: 200 px;
   height: auto;
 }
+
+ul {list-style-type:none;
+  }
+
+li {display:inline;
+    padding:10 px;
+   }
