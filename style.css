@@ -5,11 +5,11 @@ body {
 }
 
 h1 {
-  color: #333;
+  color: #000000;
 }
 
 img {
-  width: 200 px;
+  width: 1500 px;
   height: auto;
 }
 
@@ -17,5 +17,5 @@ ul {list-style-type: none;
   }
 
 li {display: inline;
-    padding:10 px;
+    padding: 50 px;
    }
