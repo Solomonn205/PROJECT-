@@ -19,7 +19,7 @@ ul {list-style-type: none;
 li {display: inline;
     padding: 50 px;
    }
-.canva-wrapper {
+canva-wrapper {
   position: relative;
   width: 100 %;
   max-width: 900 px;
@@ -27,7 +27,7 @@ li {display: inline;
   padding-top: 56.25 %; /* rasio 16:9 */
 }
 
-.canva-wrapper iframe {
+canva-wrapper iframe {
   position: absolute;
   top: 0;
   left: 0;
